@@ -1,0 +1,2 @@
+# DogGPT
+Browser automated ChatGPT
